@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+
+<html lang="es">
+<head>
+  <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto Sociedad Digital 2024 IV Bimestre</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Proyecto Sociedad Digital 2024 IV Bimestre</h1>
+        <p style="font-size: 1.3rem">¡Bienvenidos a nuestra página web! Aquí encontrarás información sobre los temas de la clase de Sociedad Digital del año 2024. Esperamos que disfrutes de la experiencia y encuentres útiles los recursos proporcionados.</p>
+        <div class="authors">
+            <p style="font-style: italic">Nicolás Sandoval Cruz / Pablo Enrique Cárcamo</p>
+        </div>
+    </div>
+  
+    <div class="button-container">
+        <button class="button" onclick="toggleInfo('info1')">Primer Bimestre</button>
+        <button class="button" onclick="toggleInfo('info2')">Segundo Bimestre</button>
+        <button class="button" onclick="toggleInfo('info3')">Tercer Bimestre</button>
+       <button class="button" onclick="toggleInfo('info4')">Cuarto Bimestre</button>
+      
+    </div>
+
+    <div id="info1" class="info">
+        <h2>Primer Bimestre</h2>
+      <h3 style="font-style: italic">La Sociedad Digital: </h3>
+        <p>Se refiere a un entorno social y cultural en el que las tecnologías digitales, como internet, redes sociales y dispositivos electrónicos, juegan un papel central en la vida cotidiana de las personas.  <p>
+          En esta sociedad, la comunicación, el acceso a la información, la educación, el trabajo y el entretenimiento se han transformado profundamente gracias a la digitalización. Las interacciones sociales, las relaciones laborales y la forma en que se organizan y se comparten los recursos están cada vez más mediadas por plataformas digitales.
+        </p>  Además, la sociedad digital plantea desafíos en términos de privacidad, seguridad y brechas digitales, pero también ofrece oportunidades para la innovación y el acceso global a la información.
+      <iframe width="800" height="240" src="https://www.youtube.com/embed/R3OPPQ_Jzkc" title="1.1  ¿Qué es la sociedad digital?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <div class="image-container">
+        <img src="https://conidea.mx/wp-content/uploads/2020/05/docencia-digital-01.jpg" width="300" height="200">
+    </div>
+      </p>
+  <h3 style="font-style: italic">Los Datos: </h3>
+      <p> 
+        Son unidades de información que pueden ser recopiladas, almacenadas y analizadas para obtener conocimientos y tomar decisiones. Estos pueden ser numéricos, textuales, visuales, o de otro tipo, y se generan a partir de diversas fuentes como sensores, encuestas, transacciones y actividades en línea. Los datos son fundamentales en la era digital, ya que permiten la creación de modelos predictivos, la personalización de servicios y la optimización de procesos. Sin embargo, el manejo de grandes volúmenes de datos también plantea desafíos relacionados con la privacidad, la seguridad y la calidad de la información.
+  
+  <div class="image-container">
+        <img src="https://e7.pngegg.com/pngimages/161/800/png-transparent-random-numbers-matrix-data-technology-hacker-background.png" width="300" height="200">
+    </div></p>
+  <h3 style="font-style: italic">El código ASCII (American Standard Code for Information Interchange)</h3>
+      <p>
+Es un sistema de codificación que representa texto en computadoras y dispositivos electrónicos. Utiliza un conjunto de 128 caracteres, incluyendo letras, números y símbolos, asignando a cada uno un valor numérico único. Este código facilita la comunicación entre sistemas y programas al estandarizar la forma en que se interpretan y transmiten los caracteres. Aunque ha sido en parte reemplazado por codificaciones más extensas como UTF-8, ASCII sigue siendo fundamental en la informática.
+  <div class="image-container">
+        <img src="https://www.johndcook.com/ascii.png" width="300" height="200">
+    </div>
+      <iframe width="950" height="534" src="https://www.youtube.com/embed/H4l42nbYmrU" title="ASCII Code and Binary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </p>
+      <h3 style="font-style: italic">La pirámide DIKW: </h3>
+      <p> 
+       Es un modelo que describe la relación entre Datos, Información, Conocimiento y Sabiduría. En la base de la pirámide están los Datos, que son hechos brutos y sin procesar. Sobre estos se encuentra la Información, que es el dato procesado y contextualizado. El siguiente nivel es el Conocimiento, que surge al analizar y entender la información en un contexto más amplio. En la cima de la pirámide está la Sabiduría, que representa la capacidad de aplicar el conocimiento de manera juiciosa y ética para tomar decisiones y resolver problemas.
+<div class="image-container">
+        <img src="https://www.i-scoop.eu/wp-content/uploads/2016/07/The-traditional-data-information-knowledge-wisdom-pyramid-source-Mushon.gif" width="300" height="200">
+    </div>
+      <iframe width="950" height="534" src="https://www.youtube.com/embed/K4i2FK52698" title="What is the DIKW Pyramid?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </p>
+
+    <button class='button' onclick="hideInfo('info1')">Return</button>
+    </div>
+
+    <div id="info2" class="info">
+        <h2>Segundo Bimestre</h2>
+      <h3 style="font-style: italic">Hardware: </h3>
+        <p>Hardware: El hardware se refiere a los componentes físicos de una computadora o dispositivo electrónico. Incluye elementos como la unidad central de procesamiento (CPU), la memoria RAM, el almacenamiento (discos duros o SSDs), la placa base, y los dispositivos periféricos (teclado, ratón, impresora). Estos componentes trabajan en conjunto para ejecutar programas y procesar datos.</p>
+      <div class="image-container">
+        <img src="https://www.lifewire.com/thmb/DV5fa9Mu8gGvXPijAzJhiqPynPs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/computer-hardware-2625895-5d9007ac0d44404588321d255fc82049.jpg" width="300" height="200">
+        <iframe width="950" height="534" src="https://www.youtube.com/embed/-jyNtg6JGRM" title="🖱🛑🛑 ¿Qué es Hardware? Definición animada | Informática Básica" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+<h3 style="font-style: italic">Placa Base: </h3>
+<p> La placa base, o motherboard, es el componente central que conecta todos los otros elementos del hardware. Sus partes principales incluyen el socket del procesador (CPU), donde se instala el procesador; las ranuras de memoria RAM, para los módulos de memoria; el chipset, que gestiona la comunicación entre el CPU, la memoria y los dispositivos periféricos; y los conectores de expansión, como las ranuras PCIe para tarjetas adicionales. También tiene conectores de alimentación, puertos USB, y conectores de almacenamiento para discos duros y SSDs.</p>
+      <div class="image-container">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPWYPMV_M76uqkrkTd7_EH3scY19NPYcB_0g&s" width="300" height="200">
+    </div>
+      
+      <iframe width="800" height="240" src="https://www.youtube.com/embed/b2pd3Y6aBag" title="Placas base explicadas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      
+      <h3 style="font-style: italic">Software: </h3>
+  <p> es el conjunto de instrucciones y programas que le dicen al hardware cómo operar. Se divide en dos categorías principales: software de sistema, como los sistemas operativos (Windows, macOS, Linux), que gestionan el hardware y proporcionan una plataforma para ejecutar aplicaciones; y software de aplicación, que incluye programas y aplicaciones que realizan tareas específicas para el usuario, como navegadores web, procesadores de texto y videojuegos. El software permite a los usuarios interactuar con el hardware y realizar diversas funciones computacionales.</p>
+      <div class="image-container">
+        <img src="https://st.adda247.com/https://www.adda247.com/jobs/wp-content/uploads/sites/2/2023/07/14123017/Types-of-software-3.png" width="300" height="200">
+    </div>
+        
+      <iframe width="800" height="240" src="https://www.youtube.com/embed/GjNp0bBrjmU" title="How Do Operating Systems Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      
+      <button class='button' onclick="hideInfo('info2')">Return</button>
+    </div>
+
+    <div id="info3" class="info">
+        <h2>Tercer Bimestre</h2>
+      
+      
+      
+      <h3 style="font-style: italic">Las Redes: </h3>
+      
+        <p>Las redes son sistemas de comunicación que conectan diferentes dispositivos para compartir recursos e información. En la introducción a redes, se estudian conceptos básicos como tipos de redes (LAN, WAN), protocolos de comunicación (como TCP/IP), y los componentes esenciales como routers, switches y cables. El objetivo es entender cómo los dispositivos intercambian datos y cómo se gestionan las conexiones y la seguridad en una red.</p>
+      <h4 style="font-style: italic"> Para más información: </h4>
+      
+      <div class="iframe-container">
+        <iframe src="lectura_redes.pdf"></iframe>
+    </div>
+      
+      <div class="image-container">
+        <img src="https://cdn2.hubspot.net/hubfs/467035/que-son-las-redes-sociales-como-funcionan.jpg" width="300" height="200">
+    </div>
+      
+      <h3 style="font-style: italic">Internet: </h3>
+
+<p>El internet es una red global que interconecta millones de redes y dispositivos, permitiendo la comunicación y el intercambio de información a nivel mundial. Utiliza protocolos como TCP/IP para transmitir datos y soporta una variedad de servicios como navegación web, correo electrónico y redes sociales. El internet ha transformado la forma en que accedemos a la información, trabajamos y nos comunicamos, creando un espacio digital de acceso casi universal.</p>
+      <h4 style="font-style: italic"> Para más información: </h4>
+      <div class="iframe-container">
+        <iframe src="Internet.pdf"></iframe>
+    </div>
+      
+      <div class="image-container">
+        <img src="https://aprendelibvrefiles.blob.core.windows.net/aprendelibvre-container/course/creacion_de_sitios_web/image/servinternet_xl.png" width="300" height="200">
+    </div>
+      
+      <button class='button' onclick="hideInfo('info3')">Return</button>
+    </div>
+
+<div id="info4" class="info">
+        <h2>Cuarto Bimestre</h2>
+      
+      
+      
+      <h3 style="font-style: italic">Inteligencia Artificial: </h3>
+      
+        <p>Definición IA: La inteligencia artificial (IA), en el contexto de las ciencias de la computación, es una disciplina y un conjunto de capacidades cognoscitivas e intelectuales expresadas por sistemas informáticos o combinaciones de algoritmos cuyo propósito es la creación de máquinas que imiten la inteligencia humana para realizar tareas, y que pueden mejorar conforme recopilen información.</p>
+      <h4 style="font-style: italic"> Para más información: </h4>
+  
+  <div class="image-container">
+        <img src=https://portal.ucm.cl//content/uploads/2023/08/IA-Educacion-UCM.jpg width="300" height="200">
+    </div>
+      
+      
+      <div class="image-container">
+        <img src=https://www.gofluent.com/wp-content/uploads/2023/02/422x221_Como-afecta-la-Inteligencia-Artificial-en-la-formacion.webp width="300" height="200">
+    </div>
+      
+      <h3 style="font-style: italic">Comienzos IA: </h3>
+
+<p>Las raíces de la IA se remontan a la década de 1950, cuando los expertos en informática comenzaron a imaginar la posibilidad de crear máquinas que pudieran simular la inteligencia humana. En 1956, la Conferencia de Dartmouth marcó el nacimiento de la IA como campo de estudio. Liderada por John McCarthy, Marvin Minsky y otros investigadores destacados, esta conferencia sentó las bases para el desarrollo de la IA como disciplina.</p>
+  <p>En 1943 Warren McCulloch y Walter Pitts presentaron su modelo de neuronas artificiales, considerada la primera inteligencia artificial, aun cuando todavía no existía el término.</p>
+  
+  <div class="image-container">
+        <img src=data:image/jpeg;base64,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 width="300" height="200">
+    </div>
+   <div class="image-container">
+        <img src=data:image/jpeg;base64,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 width="300" height="200">
+    </div>
+  <div class="image-container">
+        <img src=https://darthmouthconference.wordpress.com/wp-content/uploads/2014/04/participantes5.jpg?w=405&h=217width="300" height="200">
+    </div>
+  
+  
+  
+  
+   <h3 style="font-style: italic">Comienzos IA: </h3>
+  
+  <p>
+     Asistentes Virtuales: Aplicaciones como Siri, Google Assistant y Alexa utilizan IA para procesar lenguaje natural y ofrecer respuestas a preguntas, realizar tareas y controlar dispositivos inteligentes en el hogar. Estos asistentes mejoran continuamente gracias al aprendizaje automático.
+
+Fuente: McCarthy, J. (2007). "What is Artificial Intelligence?" Stanford University. Stanford Encyclopedia of Philosophy</p>
+  <p>
+Diagnóstico Médico: Herramientas de IA, como IBM Watson, se utilizan en la medicina para ayudar a diagnosticar enfermedades analizando grandes volúmenes de datos médicos y ofreciendo recomendaciones basadas en la evidencia.
+
+Fuente: Topol, E. J. (2019). "Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again." Basic Books.</p>
+  <p>
+Reconocimiento Facial: Sistemas de reconocimiento facial se utilizan en la seguridad pública y en redes sociales para identificar personas. Estas tecnologías son utilizadas por la policía para identificar sospechosos y por empresas para mejorar la experiencia del cliente.
+
+Fuente: Grother, P., Ngan, M., & Hanaoka, K. (2019). "Face Recognition Vendor Test (FRVT) Part 3: Demographic Effects." NIST.</p>
+  <p>
+Automatización en la Industria: Robots y sistemas de IA se emplean en fábricas para optimizar la producción, mejorar la eficiencia y reducir costos. La automatización permite a las empresas responder rápidamente a la demanda del mercado.
+
+    Fuente: Bessen, J. E. (2019). "AI and Jobs: The Role of Demand." NBER Working Paper.</p>
+  <p>
+Vehículos Autónomos: Empresas como Tesla y Waymo están desarrollando vehículos que utilizan IA para navegar y tomar decisiones en tiempo real, mejorando la seguridad y la eficiencia del transporte.
+
+Fuente: Goodall, N. J. (2014). "Machine Ethics and Automated Vehicles." In 2014 IEEE International Conference on Systems, Man, and Cybernetics.</p>
+  <p>
+Análisis de Sentimientos en Redes Sociales: La IA se utiliza para analizar opiniones en plataformas como Twitter y Facebook, ayudando a las empresas a entender la percepción del público sobre sus productos o campañas. Esto permite ajustes en tiempo real en sus estrategias de marketing.
+
+Fuente: Cambria, E., & Hussain, A. (2015). "Sentic Computing: A Common-Sense-Based Framework for Sentiment Analysis." Springer. 
+  
+  Fuente de Informacion: ChatGPT.com
+  </p>
+  
+  <iframe width="966" height="543" src="https://www.youtube.com/embed/fsxfPDOznXE" title="Inteligencia Artificial (IA): Qué es y cómo funciona" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+  <iframe width="966" height="543" src="https://www.youtube.com/embed/eT7M6UsF0bM" title="Historia de la Inteligencia Artificial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+  <iframe width="966" height="543" src="https://www.youtube.com/embed/_tA5cinv0U8" title="¿Qué es y cómo funciona la INTELIGENCIA ARTIFICIAL?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+  
+  
+  
+  
+  
+  
+  
+      
+      
+     
+   <button class='button' onclick="hideInfo('info4')">Return</button>
+    </div>
+
+    <script>
+        function toggleInfo(id) {
+            var infoDiv = document.getElementById(id);
+            if (infoDiv.style.display === 'none' || infoDiv.style.display === '') {
+                // Muestra la información
+                infoDiv.style.display = 'block';
+            } else {
+                // Oculta la información
+                infoDiv.style.display = 'none';
+            }
+        }
+      
+      function hideInfo(id) {
+            var infoDiv = document.getElementById(id);
+            infoDiv.style.display = 'none'; // Oculta la información
+        }
+    </script>
+</body>
+</html>
+
+
+  <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página con Pie de Página Fijo</title>
+   
+</head>
+<body>
+    <!-- Contenido principal de la página -->
+    <div class="content">
+        <!-- Aquí iría el contenido de tu página web -->
+    </div>
+    <!-- Pie de página -->
+    <div class="footer">
+        &copy; 2024 Nicolás Sandoval Cruz, Pablo Enrique Cárcamo<br>
+        Correos electrónicos: <a href="mailto:2012007802@ceroble.edu.gt">2012007802@ceroble.edu.gt</a>, <a href="mailto:2012007970">2012007970@ceroble.edu.gt
+      
+     </a>
+    </div>
+</body>
+  
+  
+</html>
+
+ 
+
